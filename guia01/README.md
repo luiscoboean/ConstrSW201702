@@ -31,3 +31,4 @@ que le permitirá saber más al respecto:
     * Problem 5: Verify Prime Number
     Los otros problemas son opcionales y serán tenidos en cuenta si alguno de los problemas anteriores presenta algúna falla o no
     fue presentado.
+  * Estos programas deben subirlos a GitHub: [Hagan Click Aquí Para saber como](BlueJ-GitHub.md)
