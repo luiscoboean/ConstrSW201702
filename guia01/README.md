@@ -15,7 +15,7 @@ que le permitirá saber más al respecto:
   * Primer programa en BlueJ: [click aquí](PrimerProgramaBlueJ.md)
   
 * Actividad No. 2 *Números Binarios y Expresiones Lógicas*
-  * A partir del 25 de Julio estarán disponibles el cuestionario y el quiz correspondiente
+  * A partir del próximo **2 de febrero** estarán disponibles el cuestionario y el quiz correspondiente
   
 * Actividad No. 3 *Desarrollo de un Proyecto en _Scratch, Alice, Greenfoot*
   * NO es necesario hacer el proyecto muy complicado, lo importante es conocer el objetivo de cada herramienta.
