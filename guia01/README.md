@@ -15,7 +15,7 @@ que le permitirá saber más al respecto:
   * Primer programa en BlueJ: [click aquí](PrimerProgramaBlueJ.md)
   
 * Actividad No. 2 *Números Binarios y Expresiones Lógicas*
-  * A partir del próximo **2 de febrero** estarán disponibles el cuestionario y el quiz correspondiente
+  * A partir del próximo **30 de julio** estarán disponibles el cuestionario y el quiz correspondiente
   
 * Actividad No. 3 *Desarrollo de un Proyecto en _Scratch, Alice, Greenfoot*
   * NO es necesario hacer el proyecto muy complicado, lo importante es conocer el objetivo de cada herramienta.
@@ -23,12 +23,5 @@ que le permitirá saber más al respecto:
   * No olviden que los videos a realizar son individuales y deben subirse a YouTube
   
 * Actividad No. 4 *Desarrollar Programas en Java*
-  * Actividad Grupal, aunque cada miembro del grupo deberá enviar la misma solución por separado
-  * De la serie de ejercicios, sólo serán obligatorios desarrollar los siguientes:
-    * Problem 2: Add 3 Numbers
-    * Problem 3: Add 2 Numbers
-    * Problem 4: Number of zeroes in n!
-    * Problem 5: Verify Prime Number
-    Los otros problemas son opcionales y serán tenidos en cuenta si alguno de los problemas anteriores presenta algúna falla o no
-    fue presentado.
+  * Actividad Individual
   * Estos programas deben subirlos a GitHub: [Hagan Click Aquí Para saber como](BlueJ-GitHub.md)
