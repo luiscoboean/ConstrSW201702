@@ -15,10 +15,10 @@ que le permitirá saber más al respecto:
   * Primer programa en BlueJ: [click aquí](PrimerProgramaBlueJ.md)
   
 * Actividad No. 2 *Números Binarios y Expresiones Lógicas*
-  * A partir del próximo **30 de julio** estarán disponibles el cuestionario y el quiz correspondiente
+  * A partir de hoy **1ro de agosto** estarán disponibles el cuestionario y el quiz correspondiente
   
-* Actividad No. 3 *Desarrollo de un Proyecto en _Scratch, Alice, Greenfoot*
-  * NO es necesario hacer el proyecto muy complicado, lo importante es conocer el objetivo de cada herramienta.
+* Actividad No. 3 *Desarrollo de un Proyecto en _Scratch_ *
+  * NO es necesario hacer el proyecto muy complicado, lo importante es conocer el objetivo de la herramienta.
   * Pueden utilizar alguno de los múltiples ejemplos con los que cuentan estas herramientas
   * No olviden que los videos a realizar son individuales y deben subirse a YouTube
   
